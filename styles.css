@@ -2,10 +2,6 @@
     transition: filter 0.3s ease;
 }
 
-.hover-image:hover {
-    filter: brightness(85%);
-}
-
 .hover-container {
     position: relative;
     display: inline-block;
@@ -27,11 +23,16 @@
     text-align: center;
     padding: 5px 0;
     position: absolute;
-    bottom: 0;
+    top: 50%;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translate(-50%, -50%);
     transition: visibility 0.3s ease;
 }
+
+.hover-container:hover .hover-text {
+    visibility: visible;
+}
+
 
 .hover-container:hover .hover-text {
     visibility: visible;
