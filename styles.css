@@ -33,7 +33,7 @@
 
 .hover-container:hover .hover-text {
     visibility: visible;
-    display: block;
+    display: inline-block;
     width: 100%
 }
 
