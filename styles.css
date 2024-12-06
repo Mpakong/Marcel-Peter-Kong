@@ -4,7 +4,8 @@
 
 .hover-container {
     position: relative;
-    display: inline-block;
+    display: block;
+    width: 100%;
 }
 
 .hover-image {
@@ -33,7 +34,7 @@
 
 .hover-container:hover .hover-text {
     visibility: visible;
-    display: inline-block;
+    display: block;
     width: 100%
 }
 
