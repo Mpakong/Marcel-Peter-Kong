@@ -14,19 +14,9 @@
     padding: 0; /* Reset padding */
 }
 
-.hover-overlay { 
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    width: 100%; 
-    height: 100%; 
-    background-color: rgba(173, 216, 230, 0.5); /* Light blue color with 50% opacity */ 
-    visibility: hidden; transition: visibility 0.3s ease; 
-} 
-.hover-container:hover .hover-overlay { 
-    visibility: visible; 
+.hover-container:hover .hover-image {
+    filter: brightness(65%);
 }
-
 
 .hover-text {
     visibility: hidden;
@@ -43,6 +33,3 @@
 .hover-container:hover .hover-text {
     visibility: visible;
 }
-
-
-
