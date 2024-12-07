@@ -33,3 +33,14 @@
 .hover-container:hover .hover-text {
     visibility: visible;
 }
+
+.linkedin-logo {
+    width: 50px; /* Adjust the size as needed */
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.linkedin-logo:hover {
+    transform: scale(1.1); /* Slightly enlarges the logo on hover */
+}
+
