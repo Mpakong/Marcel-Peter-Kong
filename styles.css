@@ -5,12 +5,12 @@
 .hover-container {
     position: relative;
     display: inline-block;
-    width: 100%;
 }
 
 .hover-image {
     display: block;
     width: 100%;
+    height: auto; /* Ensures the image scales proportionally */
     transition: filter 0.3s ease;
 }
 
@@ -33,5 +33,6 @@
 .hover-container:hover .hover-text {
     visibility: visible;
 }
+
 
 
