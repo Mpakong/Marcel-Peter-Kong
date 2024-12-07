@@ -7,7 +7,7 @@
 
 .hover-image {
     display: block;
-    width: auto;
+    /*width: auto;
     height: auto; /* Ensures the image scales proportionally */
     transition: filter 0.3s ease;
     margin: 0; /* Reset margin */
