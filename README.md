@@ -30,3 +30,9 @@ linkedin logo here     gmail logo here
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="./images/icons8-linkedin-128.png" alt="LinkedIn Profile" class="linkedin-logo">
 </a>
+
+https://github.com/Mpakong/Marcel_Peter_Kong_Portfolio/blob/main/images/icons8-gmail-144.png
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="./images/icons8-gmail-144.png" alt="LinkedIn Profile" class="linkedin-logo">
+</a>
