@@ -34,13 +34,13 @@
     visibility: visible;
 }
 
-.linkedin-logo {
+.icon {
     width: 50px; /* Adjust the size as needed */
     height: auto;
     transition: transform 0.3s ease;
 }
 
-.linkedin-logo:hover {
+.icon:hover {
     transform: scale(1.5); /* Slightly enlarges the logo on hover */
 }
 
