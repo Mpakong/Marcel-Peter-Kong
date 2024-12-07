@@ -1,7 +1,3 @@
-.hover-image {
-    transition: filter 0.3s ease;
-}
-
 .hover-container {
     position: relative;
     display: inline-block;
@@ -11,7 +7,7 @@
 
 .hover-image {
     display: block;
-    width: 100%;
+    width: 130%;
     height: auto; /* Ensures the image scales proportionally */
     transition: filter 0.3s ease;
     margin: 0; /* Reset margin */
