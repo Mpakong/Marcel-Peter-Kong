@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <div style="display: flex; gap: 20px;">
-    <span>Contact </span>
+     <img src="./images/icons8-contact-100.png">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
       <img src="./images/icons8-linkedin-128.png" alt="LinkedIn Profile" class="linkedin-logo">
   </a>
