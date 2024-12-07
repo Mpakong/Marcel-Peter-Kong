@@ -26,3 +26,7 @@
 </div>
 
 linkedin logo here     gmail logo here
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="./images/icons8-linkedin-128.png" alt="LinkedIn Profile" class="linkedin-logo">
+</a>
