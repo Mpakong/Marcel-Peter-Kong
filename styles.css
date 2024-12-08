@@ -19,12 +19,14 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
+    background-color: rgba(0, 0, 51, 0.8);
 }
 
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    background-color: rgba(0, 0, 51, 0.8);
 }
 
 main {
@@ -69,6 +71,14 @@ main {
 
 .hover-container:hover .hover-text {
     visibility: visible;
+}
+
+.icon-container { 
+    display: flex; 
+    gap: 20px; 
+    justify-content: center; /* Center the icons horizontally */ 
+    align-items: center; /* Center the icons vertically */ 
+    background-color: transparent; /* Ensure the container background is transparent */ 
 }
 
 .icon {
