@@ -1,5 +1,36 @@
-body { background-color: #39393B !important;
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('./images/3635051.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
+header, footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+main {
+    padding: 5em 1em;
+    text-align: center;
+}
+
 
 .hover-container {
     position: relative;
