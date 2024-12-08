@@ -2,10 +2,10 @@
 
 <div style="display: flex; gap: 20px;"> 
        <img src="./images/Picture1.png" width="128" height="128"> 
-       <a href="https://www.linkedin.com/in/your-profile" target="_blank"> 
+       <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank"> 
               <img src="./images/icons8-linkedin-144.png" alt="LinkedIn Profile" class="icon"> 
        </a> 
-       <a href="mailto:your-email@example.com" target="_blank"> 
+       <a href="mailto:konggiio2@gmail.com" target="_blank"> 
               <img src="./images/icons8-gmail-144.png" alt="gmail icon" class="icon" width="128" height="128"> 
        </a> 
 </div>
