@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <div style="display: flex; gap: 20px;"> 
-       <img src="./images/Picture1.png" width="128" height="128"> 
+       
        <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
               <img src="./images/icons8-linkedin-144.png" alt="LinkedIn Profile" class="icon"> 
        </a> 
