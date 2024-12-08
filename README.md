@@ -1,15 +1,14 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <img src="./images/Picture1.png" width="128" height="128">
-<div style="display: flex; gap: 20px;">
-       <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-      <img src="./images/icons8-linkedin-128.png" alt="LinkedIn Profile" class="icon">
-  </a>
-   
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-      <img src="./images/icons8-gmail-144.png" alt="gmail icon" class="icon" width="128" height="128">
-  </a>
+<div class="icon-container" style="display: flex; gap: 20px;"> 
+       <img src="./images/icons8-contact-100.png" width="128" height="128"> 
+       <a href="https://www.linkedin.com/in/your-profile" target="_blank"> 
+              <img src="./images/icons8-linkedin-128.png" alt="LinkedIn Profile" class="icon"> 
+       </a> 
+       <a href="mailto:your-email@example.com" target="_blank"> 
+              <img src="./images/icons8-gmail-144.png" alt="gmail icon" class="icon" width="128" height="128"> 
+       </a> 
 </div>
-
 
 
 ***
