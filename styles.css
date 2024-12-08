@@ -46,6 +46,7 @@ main {
     transition: filter 0.3s ease;
     margin: 0; /* Reset margin */
     padding: 0; /* Reset padding */
+    background-color: transparent;
 }
 
 .hover-container:hover .hover-image {
@@ -72,6 +73,7 @@ main {
     width: 50px; /* Adjust the size as needed */
     height: auto;
     transition: transform 0.3s ease;
+    background-color: transparent;
 }
 
 .icon:hover {
