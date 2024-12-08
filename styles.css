@@ -78,14 +78,14 @@ main {
     gap: 20px; 
     justify-content: center; /* Center the icons horizontally */ 
     align-items: center; /* Center the icons vertically */ 
-    background-color: transparent; /* Ensure the container background is transparent */ 
+    background-color: rgba(40, 40, 42, 0.8);
 }
 
 .icon {
     width: 50px; /* Adjust the size as needed */
     height: auto;
     transition: transform 0.3s ease;
-    background-color: transparent;
+    mix-blend-mode: multply;
 }
 
 .icon:hover {
