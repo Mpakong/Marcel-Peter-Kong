@@ -46,3 +46,15 @@
     transform: scale(1.5); /* Slightly enlarges the logo on hover */
 }
 
+/* Hide the visual search icon */
+img {
+    -ms-high-contrast-adjust: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
