@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
-<img src="./images/KONG%20MARCEL%20ct%20sc.jpg" width="128" height="128">
+<img src="./images/Picture1.png" width="128" height="128">
 <div style="display: flex; gap: 20px;">
        <a href="https://www.linkedin.com/in/your-profile" target="_blank">
       <img src="./images/icons8-linkedin-128.png" alt="LinkedIn Profile" class="icon">
