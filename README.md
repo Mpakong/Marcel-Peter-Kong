@@ -12,8 +12,8 @@
 
 
 
-
-# My Projects
+***
+## My Projects
 
 <div class="hover-container"> 
   <a href="https://example.com" target="_blank"> 
