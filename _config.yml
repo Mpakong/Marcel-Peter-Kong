@@ -2,5 +2,5 @@ title: Marcel Peter Kong
 logo: /images/pic1.png
 description: Data Science Projects
 theme: jekyll-theme-minimal
-github: is_project_page: false
-
+github: 
+  is_project_page: false
