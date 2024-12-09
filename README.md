@@ -12,7 +12,7 @@
 
 
 ***
-## My Projects
+## <span style="color: rgb(0, 119, 181);">Data Science Portfolio</span>
 
 <div class="hover-container"> 
   <a href="https://example.com" target="_blank"> 
