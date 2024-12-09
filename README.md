@@ -12,8 +12,11 @@
 
 
 ***
+
 ## <span style="color: rgb(0, 119, 181);">Data Science Portfolio</span>
+
 ***
+
 <div class="hover-container"> 
   <a href="https://example.com" target="_blank"> 
     <img src="./images/z%20score%20closest%20to%20zero%20use%20abs%20func%20zscore%20to%20find%20min.png" alt="Description" class="hover-image" width="500" height="300"> 
