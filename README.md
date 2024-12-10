@@ -28,7 +28,13 @@
 - <a href="https://www.dataquest.io/course/intermediate-python-for-data-science/" target="_blank">Dataquest.io: Intermediate Python for Data Science Course</a>
 - <a href="https://www.dataquest.io/course/data-cleaning-and-analysis-in-python/" target="_blank">Dataquest.io: Data Cleaning and Analysis in Python Course</a>
 - <a href="https://www.dataquest.io/course/introduction-to-data-visualization-in-python/" target="_blank">Dataquest.io: Introduction to Data Visualization in Python Course</a>
-
+- <a href="https://app.dataquest.io/view_cert/VWW2JZN9CAHHSKS9YXSC" target="_blank">Dataquest.io: Introduction to Pandas and NumPy for Data Analysis Course</a>
+- <a href="https://app.dataquest.io/view_cert/AKF1TDNGZFTBPP9N1OTQ" target="_blank">Dataquest.io: Python Basics for Data Analysis Path</a>
+- <a href="https://app.dataquest.io/view_cert/5JIGET1FKVNAAV1O91AN" target="_blank">Dataquest.io: Python for Data Science: Fundamentals Part II Course</a>
+- <a href="https://app.dataquest.io/view_cert/DWZXB11OBY75YC5S6O5E" target="_blank">Dataquest.io: Basic Operators and Data Structures in Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/HMBO1NYXYXYZ1BTSC8BP" target="_blank">Dataquest.io: Dictionaries, Frequency Tables, and Functions in Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/Q3SJW4OTIMAJCGK9XUGB" target="_blank">Dataquest.io: For Loops and Conditional Statements in Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/E1B86AK2HDIMC7Q4LOQY" target="_blank">Dataquest.io: Introduction to Python Programming for Data Science Course</a>
 
 ***
 
