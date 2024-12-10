@@ -15,7 +15,7 @@
 ## <span style="color: rgb(0, 119, 181);">🏫 Certifications</span>
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13)
 
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a>
 
 - 
 - [Dataquest.io: SQL Fundamentals Path](https://app.dataquest.io/view_cert/74R132XK1F62GGEEJHMW)
