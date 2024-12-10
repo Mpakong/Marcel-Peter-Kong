@@ -10,6 +10,9 @@
        </a> 
 </div>
 
+***
+
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13)
 
 ***
 
