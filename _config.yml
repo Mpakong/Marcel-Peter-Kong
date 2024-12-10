@@ -1,6 +1,13 @@
 title: Marcel Peter Kong
 logo: /images/pic1.png
-description: "**Skills**: :hammer_and_wrench: :muscle: :brain:\n  - Python\n  - SQL\n  - Tableau\n  - Advanced excel / VBA"
+description: |
+  **Skills**: 🛠️ 💪 🧠
+  - Python
+  - SQL
+  - Tableau
+  - Advanced excel / VBA
+  - Data Analysis
+  - Statistics
 theme: jekyll-theme-minimal
 github: 
   is_project_page: false
