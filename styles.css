@@ -1,3 +1,6 @@
+body {
+ background: #696969
+}
 .hover-container {
     position: relative;
     display: inline-block;
