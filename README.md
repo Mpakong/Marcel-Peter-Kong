@@ -13,11 +13,11 @@
 ***
 
 ## <span style="color: rgb(0, 119, 181);">🏫 Certifications</span>
-[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13)
 
 ***
 
-## <span style="color: rgb(0, 119, 181);">Data Science Portfolio</span>
+## <span style="color: rgb(0, 119, 181);">📑 Data Science Portfolio</span>
 
 ***
 
