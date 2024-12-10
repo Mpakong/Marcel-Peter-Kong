@@ -5,5 +5,5 @@ theme: jekyll-theme-minimal
 github: 
   is_project_page: false
 links:
-  name: Google Data Analytics Professional Certificate
-  url: https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13
+  name: "Google Data Analytics Professional Certificate"
+  url: "https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13"
