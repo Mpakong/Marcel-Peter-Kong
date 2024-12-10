@@ -14,6 +14,10 @@
 
 ## <span style="color: rgb(0, 119, 181);">🏫 Certifications</span>
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13)
+
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a>
+
+- 
 - [Dataquest.io: SQL Fundamentals Path](https://app.dataquest.io/view_cert/74R132XK1F62GGEEJHMW)
 - [Dataquest.io: Combining Tables in SQL Course](https://app.dataquest.io/view_cert/Q8RYKCP8SQSQ7N1TUWU1)
 - [Summarizing Data in SQL Course](https://app.dataquest.io/view_cert/GJ7RO7LNNYGEW4DS6H7T)
