@@ -16,22 +16,15 @@
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a>
 - <a href="https://app.dataquest.io/view_cert/74R132XK1F62GGEEJHMW" target="_blank">Dataquest.io: SQL Fundamentals Path</a>
 - <a href="https://app.dataquest.io/view_cert/Q8RYKCP8SQSQ7N1TUWU1" target="_blank">Dataquest.io: Combining Tables in SQL Course</a>
-- <a href="https://app.dataquest.io/view_cert/GJ7RO7LNNYGEW4DS6H7T" target="_blank">Summarizing Data in SQL Course</a>
-- <a href="https://app.dataquest.io/view_cert/4PVP4BC6N71GKYYB6GKL" target="_blank">Querying Databases with SQL and Python Course</a>
-- <a href="https://app.dataquest.io/view_cert/KURYK23FNJGUA41RBGVS" target="_blank">Introduction to SQL and Databases Course</a>
+- <a href="https://app.dataquest.io/view_cert/GJ7RO7LNNYGEW4DS6H7T" target="_blank">Dataquest.io: Summarizing Data in SQL Course</a>
+- <a href="https://app.dataquest.io/view_cert/4PVP4BC6N71GKYYB6GKL" target="_blank">Dataquest.io: Querying Databases with SQL and Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/KURYK23FNJGUA41RBGVS" target="_blank">Dataquest.io: Introduction to SQL and Databases Course</a>
 - <a href="https://www.dataquest.io/course/intermediate-python-for-data-science/" target="_blank">Dataquest.io: Intermediate Python for Data Science Course</a>
 - <a href="https://www.dataquest.io/course/data-cleaning-and-analysis-in-python/" target="_blank">Dataquest.io: Data Cleaning and Analysis in Python Course</a>
 - <a href="https://www.dataquest.io/course/introduction-to-data-visualization-in-python/" target="_blank">Dataquest.io: Introduction to Data Visualization in Python Course</a>
 - <a href="https://www.dataquest.io/path/probability-and-statistics-with-python/" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a>
 - <a href="https://www.dataquest.io/course/hypothesis-testing-in-python/" target="_blank">Dataquest.io: Hypothesis Testing in Python Course</a>
 - <a href="https://excelvbaisfun.com/the-ultimate-excel-vba-course-2-0/" target="_blank">Strong Software Solutions. LLC (Excel VBA is Fun): The-Ultimate-Excel-VBA-Course-2.0</a>
-
-- 
-
-- [Dataquest.io: Combining Tables in SQL Course](https://app.dataquest.io/view_cert/Q8RYKCP8SQSQ7N1TUWU1)
-- [Summarizing Data in SQL Course](https://app.dataquest.io/view_cert/GJ7RO7LNNYGEW4DS6H7T)
-- [Querying Databases with SQL and Python Course](https://app.dataquest.io/view_cert/4PVP4BC6N71GKYYB6GKL)
-- [Introduction to SQL and Databases Course](https://app.dataquest.io/view_cert/KURYK23FNJGUA41RBGVS)
 
 ***
 
