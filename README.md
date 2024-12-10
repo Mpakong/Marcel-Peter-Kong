@@ -24,7 +24,6 @@
 - <a href="https://www.dataquest.io/course/introduction-to-data-visualization-in-python/" target="_blank">Dataquest.io: Introduction to Data Visualization in Python Course</a>
 - <a href="https://www.dataquest.io/path/probability-and-statistics-with-python/" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a>
 - <a href="https://www.dataquest.io/course/hypothesis-testing-in-python/" target="_blank">Dataquest.io: Hypothesis Testing in Python Course</a>
-- <a href="https://excelvbaisfun.com/the-ultimate-excel-vba-course-2-0/" target="_blank">Strong Software Solutions. LLC (Excel VBA is Fun): The-Ultimate-Excel-VBA-Course-2.0</a>
 
 ***
 
