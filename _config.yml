@@ -2,17 +2,16 @@ title: Marcel Peter Kong
 logo: /images/pic1.png
 description: >
   <span style="color: rgb(0, 119, 181);">💡Skills</span><br>
-  **Skills**:<br>
-  - Python<br>
-  - SQL<br>
-  - Tableau / Power BI<br>
-  - Advanced excel / VBA<br>
-  - Data Analysis<br>
-  - Statistics<br>
+  ◾<span style="color: rgb(0, 119, 181);">Python</span><br>
+  ◾<span style="color: rgb(0, 119, 181);">SQL</span><br>
+  ◾<span style="color: rgb(0, 119, 181);">Tableau / Power BI/span><br>
+  ◾<span style="color: rgb(0, 119, 181);">Advanced Excel / VBA</span><br>
+  ◾<span style="color: rgb(0, 119, 181);">Data Analysis</span><br>
+  ◾<span style="color: rgb(0, 119, 181);">Statistics</span><br>
   <br>
-  Contact:<br>
-  📞 +63-995-032-3545<br>
-  📧 konggiio2@gmail.com
+  <span style="color: rgb(0, 119, 181);">Contact</span><br>
+  📞 <span style="color: rgb(0, 119, 181);">+63-995-032-3545</span><br>
+  📧 <span style="color: rgb(0, 119, 181);">konggiio2@gmail.com</span>
 theme: jekyll-theme-minimal
 github: 
   is_project_page: false
