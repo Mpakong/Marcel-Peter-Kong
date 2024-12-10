@@ -16,6 +16,10 @@
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a>
 - <a href="https://www.dataquest.io/path/probability-and-statistics-with-python/" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a>
 - <a href="https://www.dataquest.io/course/hypothesis-testing-in-python/" target="_blank">Dataquest.io: Hypothesis Testing in Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/5YU8ULGCZDKAMLCU7FAD" target="_blank">Dataquest.io: Intermediate Statistics in Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/YIMAREQD4OWAOHPEIFXF" target="_blank">Dataquest.io: Introduction to Conditional Probability in Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/EL7FPXPL3HI4GBTC3DQQ" target="_blank">Dataquest.io: Introduction to Probability in Python Course</a>
+- <a href="https://app.dataquest.io/view_cert/4LJWNQ31JQ4QDBXKFIVV" target="_blank">Dataquest.io: Introduction to Statistics in Python Course</a>
 - <a href="https://app.dataquest.io/view_cert/74R132XK1F62GGEEJHMW" target="_blank">Dataquest.io: SQL Fundamentals Path</a>
 - <a href="https://app.dataquest.io/view_cert/Q8RYKCP8SQSQ7N1TUWU1" target="_blank">Dataquest.io: Combining Tables in SQL Course</a>
 - <a href="https://app.dataquest.io/view_cert/GJ7RO7LNNYGEW4DS6H7T" target="_blank">Dataquest.io: Summarizing Data in SQL Course</a>
