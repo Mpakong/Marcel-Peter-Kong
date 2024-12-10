@@ -12,7 +12,7 @@
 
 ***
 
-## <span style="color: rgb(0, 119, 181);">📎 Certifications</span>
+## <span style="color: rgb(0, 119, 181);">📜 Certifications</span>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a>
 - <a href="https://app.dataquest.io/view_cert/9CT0GMTE21W9KYUSYLFD" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a>
 - <a href="https://app.dataquest.io/view_cert/SD17FHGEH1PSMB25LEKI" target="_blank">Dataquest.io: Hypothesis Testing in Python Course</a>
