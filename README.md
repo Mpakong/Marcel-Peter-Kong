@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
-<h1 class="title">{{ site.title }}</h1>
+
 
 <div style="display: flex; gap: 20px;"> 
        
