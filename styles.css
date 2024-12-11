@@ -1,6 +1,9 @@
 body {
     background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%);
 }
+h1 {
+    color:rgb(255, 255, 255);
+}
 .title {
     color: rgb(255, 255, 255); /* White color */
     font-size: 26px;
