@@ -62,7 +62,7 @@
 
 <div class="hover-container"> 
   <a href="https://example.com" target="_blank"> 
-    <img src="https://github.com/Mpakong/Marcel_Peter_Kong_Portfolio/blob/main/images/gifs/R.gif" alt="Description" class="hover-image" width="500" height="300"> 
+    <img src=".images/gifs/R.gif" alt="Description" class="hover-image" width="500" height="300"> 
     <!--<div class="hover-overlay"></div>-->
     <div class="hover-text">Your Hover Text Here</div> 
   </a> 
