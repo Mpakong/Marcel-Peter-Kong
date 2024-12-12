@@ -44,7 +44,7 @@
 ***
 
 <div class="hover-container"> 
-  <a href="https://example.com" target="_blank"> 
+  <a href="https://github.com/Mpakong/Marcel_Peter_Kong_Portfolio/blob/main/ipynbs/loops%2C%20lists%2C%20dictionary%2C%20functions%2C%20datetime.ipynb" target="_blank"> 
     <img src="./images/z%20score%20closest%20to%20zero%20use%20abs%20func%20zscore%20to%20find%20min.png" alt="Description" class="hover-image" width="500" height="300"> 
     <!--<div class="hover-overlay"></div>-->
     <div class="hover-text">Your Hover Text Here</div> 
