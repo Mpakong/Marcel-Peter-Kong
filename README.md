@@ -62,7 +62,7 @@
 
  
 
-<img src=".images/gifs/R.gif" alt="Description" width="500" height="300"> 
+<img src="..images/gifs/R.gif" alt="Description" width="500" height="300"> 
     
 
 
