@@ -1,0 +1,12 @@
+import pandas as pd
+import requests
+from io import StringIO
+
+# URL of the raw CSV file
+url = 'https://raw.githubusercontent.com/Mpakong/Marcel_Peter_Kong_Portfolio/main/projects/supermarket_sales.csv'
+
+
+sales_data = pd.read_csv(url)
+
+# Display the first few rows of the DataFrame
+print(sales_data.head())
