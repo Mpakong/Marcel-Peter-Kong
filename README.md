@@ -47,7 +47,7 @@
   <a href="https://nbviewer.org/github/Mpakong/Marcel_Peter_Kong_Portfolio/blob/main/projects/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist%20%28kaggle%29/E-commerce%20dataset%20hypothesis%20testing.ipynb" target="_blank"> 
     <img src="./images/z%20score%20closest%20to%20zero%20use%20abs%20func%20zscore%20to%20find%20min.png" alt="Description" class="hover-image" width="500" height="300"> 
     <!--<div class="hover-overlay"></div>-->
-    <div class="hover-text">Chi-Square Test of Independence</div> 
+    <div class="hover-text">Hypothesis Testing\nChi-Square Test of Independence</div> 
   </a> 
 </div>
 
