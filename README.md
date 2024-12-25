@@ -30,6 +30,7 @@
        </a> 
 </div>
 <hr>
+<div style="text-align: center;">
 <span style="color: rgb(255, 255, 255);">📜 Certificates</span><br>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a><br>
 - <a href="https://app.dataquest.io/view_cert/9CT0GMTE21W9KYUSYLFD" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a><br>
@@ -55,9 +56,10 @@
 - <a href="https://app.dataquest.io/view_cert/E1B86AK2HDIMC7Q4LOQY" target="_blank">Dataquest.io: Introduction to Python Programming for Data Science Course</a>
 
 <hr>
-<span style="color: rgb(255, 255, 255);">📂 Data Analytics Portfolio</span>
+
+
+  <span style="color: rgb(255, 255, 255);">📂 Data Analytics Portfolio</span>
 <br>
-<div style="text-align: center;">
 <div class="hover-container"> 
   <a href="https://nbviewer.org/github/Mpakong/Marcel_Peter_Kong_Portfolio/blob/main/projects/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist%20%28kaggle%29/E-commerce%20dataset%20hypothesis%20testing.ipynb" target="_blank"> 
     <img src="images/gifs/chi2.gif" alt="chi2" class="hover-image" width="500" height="300"> 
