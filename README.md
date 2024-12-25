@@ -17,12 +17,8 @@
 
 <br>
 
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Excel |</span>
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Power BI |</span>
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Python |</span>
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">SQL |</span>
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Statistics |</span>
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Excel VBA</span> <br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Excel | Power BI | Python | SQL | Statistics | Excel VBA</span> <br>
+
   <br>
   <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
     <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
@@ -42,7 +38,7 @@
 <hr>
 <div style="text-align: center;">
 
-  <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📂 Data Analytics Portfolio</span>
+  <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📂 Data Analytics Portfolio</span><br>
 <br>
 <div class="hover-container"> 
   <a href="https://nbviewer.org/github/Mpakong/Marcel_Peter_Kong_Portfolio/blob/main/projects/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist%20%28kaggle%29/E-commerce%20dataset%20hypothesis%20testing.ipynb" target="_blank"> 
