@@ -4,7 +4,7 @@
 <img src="./images/profile pic black.jpg" class="black-background" width="650" height="500">
 
  <div style="text-align: center;">
-  <span style='color: rgb(255, 255, 255);'>Marcel Peter Kong</span>
+  <span style='color: rgb(255, 255, 255);'>Marcel Peter Kong</span><br>
   <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">💡Skills</span><br>
    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾Python</span><br>
    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾SQL</span><br>
@@ -27,10 +27,8 @@
               <img src="./images/gmail black.jpg" alt="gmail icon" class="icon" width="128" height="128"> 
        </a> 
 </div>
-
-***
-
-## <span style="color: rgb(255, 255, 255);">📜 Certificates</span><br>
+<hr>
+<span style="color: rgb(255, 255, 255);">📜 Certificates</span><br>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a><br>
 - <a href="https://app.dataquest.io/view_cert/9CT0GMTE21W9KYUSYLFD" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a><br>
 - <a href="https://app.dataquest.io/view_cert/SD17FHGEH1PSMB25LEKI" target="_blank">Dataquest.io: Hypothesis Testing in Python Course</a><br>
@@ -54,9 +52,8 @@
 - <a href="https://app.dataquest.io/view_cert/Q3SJW4OTIMAJCGK9XUGB" target="_blank">Dataquest.io: For Loops and Conditional Statements in Python Course</a><br>
 - <a href="https://app.dataquest.io/view_cert/E1B86AK2HDIMC7Q4LOQY" target="_blank">Dataquest.io: Introduction to Python Programming for Data Science Course</a>
 
-***
-
-## <span style="color: rgb(255, 255, 255);">📂 Data Analytics Portfolio</span>
+<hr>
+<span style="color: rgb(255, 255, 255);">📂 Data Analytics Portfolio</span>
 
 ***
 
