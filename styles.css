@@ -3,7 +3,8 @@ body {
     background: black;
 }
 h1 {
-    color:rgb(255, 255, 255);
+    display: none;
+    /*color:rgb(255, 255, 255);*/
 }
 .title {
     color: rgb(255, 255, 255); /* White color */
