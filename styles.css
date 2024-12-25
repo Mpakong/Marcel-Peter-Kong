@@ -1,5 +1,6 @@
 body {
-    background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%);
+   /* background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%); */
+    background: black;
 }
 h1 {
     color:rgb(255, 255, 255);
