@@ -3,7 +3,14 @@
 <div style="text-align: center;">
   <img src="./images/profile pic black.jpg" class="black-background" width="650" height="500">
 </div>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+              <img src="./images/excel.jpg" alt="excel" class="icon"> 
+              <img src="./images/powerbi.jpg" alt="powerbi icon" class="icon" width="128" height="128"> 
+              <img src="./images/python.jpg" alt="python icon" class="icon" width="128" height="128"> 
+              <img src="./images/sql.jpg" alt="sql icon" class="icon" width="128" height="128"> 
+              <img src="./images/statistics.jpg" alt="stats icon" class="icon" width="128" height="128"> 
+              <img src="./images/vba.jpg" alt="vba icon" class="icon" width="128" height="128"> 
+</div>
 
 
  <div style="text-align: center;">
