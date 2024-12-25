@@ -51,7 +51,7 @@ h1 {
     width: 50px; /* Adjust the size as needed */
     height: auto;
     transition: transform 0.3s ease;
-    background-color: rgba(0, 0, 0, 0);
+    background: black;
 }
 
 .icon:hover {
@@ -68,6 +68,6 @@ img {
     user-select: none;
     -webkit-touch-callout: none;
    /* -webkit-tap-highlight-color: transparent; */
-    background-color: black;
+    background: black;
 }
 
