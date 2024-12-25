@@ -4,7 +4,8 @@
   <img src="./images/profile pic black.jpg" class="black-background" width="650" height="500">
 </div>
  <div style="text-align: center;">
-  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">💡Skills</span><br>
+  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">Skills</span><br>
+   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
               <img src="./images/excel.jpg" alt="excel" class="icon"> 
               <img src="./images/powerbi.jpg" alt="powerbi icon" class="icon" width="128" height="128"> 
@@ -21,11 +22,12 @@
    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Tableau / Power BI | </span>
    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Advanced Excel / VBA | </span>
    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Data Analysis | </span>
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Statistics</span>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Statistics</span> <br>
   <br>
   <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
     <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
-    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span>
+    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span><br>
+    <br>
 
  </div>
 
