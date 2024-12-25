@@ -1,9 +1,10 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
+<div style="background-color: black; display: inline-block;">
 
-<span style='color: rgb(255, 255, 255);'>Marcel Peter Kong</span>
 <img src="./images/pic1.png">
 
  <div style="text-align: center;">
+  <span style='color: rgb(255, 255, 255);'>Marcel Peter Kong</span>
   <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">💡Skills</span><br>
    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾Python</span><br>
    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾SQL</span><br>
