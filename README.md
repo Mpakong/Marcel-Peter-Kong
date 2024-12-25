@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <!--<div style="background: black; display: inline-block;"> -->
 
-<img src="./images/pic1.png">
+<img src="./images/pic1.png" class="black-background">
 
  <div style="text-align: center;">
   <span style='color: rgb(255, 255, 255);'>Marcel Peter Kong</span>
