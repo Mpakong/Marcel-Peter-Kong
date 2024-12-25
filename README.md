@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <!--<div style="background: black; display: inline-block;"> -->
 
-<img src="./images/pic1.png" class="black-background">
+<img src="./images/profile pic black.jpg" class="black-background">
 
  <div style="text-align: center;">
   <span style='color: rgb(255, 255, 255);'>Marcel Peter Kong</span>
@@ -21,10 +21,10 @@
 <div style="display: flex; gap: 20px;"> 
        
        <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
-              <img src="./images/icons8-linkedin-144.png" alt="LinkedIn Profile" class="icon"> 
+              <img src="./images/linkedin black.jpg" alt="LinkedIn Profile" class="icon"> 
        </a> 
        <a href="mailto:konggiio2@gmail.com" target="_blank"> 
-              <img src="./images/icons8-gmail-144.png" alt="gmail icon" class="icon" width="128" height="128"> 
+              <img src="./images/gmail black.jpg" alt="gmail icon" class="icon" width="128" height="128"> 
        </a> 
 </div>
 
