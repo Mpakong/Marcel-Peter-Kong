@@ -20,8 +20,8 @@
     <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span>
 
  </div>
-<div style="display: flex; gap: 20px;"> 
-       
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
        <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
               <img src="./images/linkedin black.jpg" alt="LinkedIn Profile" class="icon"> 
        </a> 
