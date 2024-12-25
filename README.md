@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <div style="background: black; display: inline-block;">
-<div style="text-align: center;">
+<div style="text-align: center; padding-left: 20px;">
   <img src="./images/profile pic black.jpg" class="black-background" width="650" height="500">
 </div>
  <div style="text-align: center;">
