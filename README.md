@@ -56,9 +56,8 @@
 
 <hr>
 <span style="color: rgb(255, 255, 255);">📂 Data Analytics Portfolio</span>
-
-***
-
+<br>
+<div style="text-align: center;">
 <div class="hover-container"> 
   <a href="https://nbviewer.org/github/Mpakong/Marcel_Peter_Kong_Portfolio/blob/main/projects/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist%20%28kaggle%29/E-commerce%20dataset%20hypothesis%20testing.ipynb" target="_blank"> 
     <img src="images/gifs/chi2.gif" alt="chi2" class="hover-image" width="500" height="300"> 
@@ -84,3 +83,4 @@
   </a> 
 </div>
 
+</div>
