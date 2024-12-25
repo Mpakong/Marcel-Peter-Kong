@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
-<div style="background-color: black; display: inline-block;">
+<div style="background: black; display: inline-block;">
 
 <img src="./images/pic1.png">
 
