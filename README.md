@@ -1,6 +1,22 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
+<span style='color: rgb(255, 255, 255);'>Marcel Peter Kong</span>
+<img src="./images/pic1.png">
 
+ <div style="text-align: center;">
+  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">💡Skills</span><br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾Python</span><br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾SQL</span><br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾Tableau / Power BI</span><br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾Advanced Excel / VBA</span><br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾Data Analysis</span><br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">◾Statistics</span><br>
+  <br>
+  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
+    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
+    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span>
+
+ </div>
 <div style="display: flex; gap: 20px;"> 
        
        <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
