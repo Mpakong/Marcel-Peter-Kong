@@ -1,9 +1,9 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <div style="background: black; display: inline-block;">
 <div style="text-align: center; padding-left: 20px;">
-  <img src="./images/profile pic black.jpg" class="black-background" width="300" height="250">
+  
 </div>
- <div style="text-align: center;">
+ <div style="text-align: left;">
    <span style="color: rgb(255, 255, 255);font-size: 24px; font-weight: bold;">Marcel Peter Kong</span><br>
    <br>
    <span style="color: rgb(0, 119, 181);font-size: 15px;">Data Analyst</span><br>
@@ -11,6 +11,7 @@
   <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">Skills</span><br>
    <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+              <img src="./images/profile pic black.jpg" class="black-background" width="200" height="150">
               <img src="./images/excel.jpg" alt="excel" class="icon"> 
               <img src="./images/powerbi.jpg" alt="powerbi icon" class="icon" width="128" height="128"> 
               <img src="./images/python.jpg" alt="python icon" class="icon" width="128" height="128"> 
