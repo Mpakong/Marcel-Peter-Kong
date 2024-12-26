@@ -118,4 +118,11 @@ img {
     margin: 0;
     padding: 0;
 }
+.markdown-body::after {
+    display: table;
+    clear: both;
+    content: "";
+    margin: 0;
+    padding: 0;
+}
 
