@@ -10,7 +10,7 @@
    <br>
   <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">Skills</span><br>
    <br>
-<div style="display: flex; justify-content: left; align-items: left; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: left; gap: 20px;">
               <img src="./images/profile pic black.jpg" class="black-background" width="200" height="150">
               <img src="./images/excel.jpg" alt="excel" class="icon"> 
               <img src="./images/powerbi.jpg" alt="powerbi icon" class="icon" width="128" height="128"> 
