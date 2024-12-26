@@ -3,18 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
-header {
+header, footer {
    background: blue;
+   position: relative;
+   z-index: 1;
 }
 html, body {
    margin: 0;
    padding: 0;
    background: black;
 }
-footer {
-   /* background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%); */
-    background: black;
-}
+
 h1 {
     display: none;
     /*color:rgb(255, 255, 255);*/
