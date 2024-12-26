@@ -99,4 +99,23 @@ img {
   background-color: black;
 }
 
+.container-lg {
+    margin: 0;
+    padding: 0;
+}
+
+.px-3 {
+    margin: 0;
+    padding: 0;
+}
+
+.my-5 {
+    margin: 0;
+    padding: 0;
+}
+
+.markdown-body {
+    margin: 0;
+    padding: 0;
+}
 
