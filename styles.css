@@ -14,7 +14,7 @@ header, footer {
 html, body {
    margin: 0;
    padding: 0;
-   background: white;
+   background: black;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h1 {
 }
 
 main {
-    background: gray;
+    background: #242424;
     width: 100%;
     min-height: 100vh;/* padding: 20px; Optional: Adds some padding inside the main content */
 }
