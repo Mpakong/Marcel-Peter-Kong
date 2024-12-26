@@ -27,7 +27,8 @@ h1 {
 
 main {
     background: gray;
-    /* padding: 20px; Optional: Adds some padding inside the main content */
+    width: 100%;
+    min-height: 100vh;/* padding: 20px; Optional: Adds some padding inside the main content */
 }
 
 
