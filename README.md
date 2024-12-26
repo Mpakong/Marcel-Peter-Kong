@@ -4,12 +4,12 @@
   
 </div>
  <div style="text-align: left;">
-   <span style="color: rgb(255, 255, 255);font-size: 30px; font-weight: bold;">Marcel Peter Kong</span><br>
+   <span style="color: rgb(255, 255, 255);font-size: 40px; font-weight: bold;">Marcel Peter Kong</span><br>
    <br>
-   <span style="color: rgb(255, 255, 255);font-size: 15px;">Data Analyst</span><br>
+   <span style="color: rgb(255, 255, 255);font-size: 30px;">Data Analyst</span><br>
    <br>
 <div style="display: flex; justify-content: left; align-items: center; gap: 20px;">
-              <img src="./images/profile pic black.jpg" class="black-background" width="200" height="150">
+              <img src="./images/profile pic black.jpg" class="black-background" width="100" height="50">
               <img src="./images/excel.jpg" alt="excel" class="icon"> 
               <img src="./images/powerbi.jpg" alt="powerbi icon" class="icon" width="128" height="128"> 
               <img src="./images/python.jpg" alt="python icon" class="icon" width="128" height="128"> 
