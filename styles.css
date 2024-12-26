@@ -1,7 +1,7 @@
 header {
    background: black;
 }
-body {
+html, body {
    margin: 0;
    padding: 0;
 }
@@ -21,7 +21,7 @@ h1 {
 
 main {
     background: gray;
-    padding: 20px; /* Optional: Adds some padding inside the main content */
+    /* padding: 20px; Optional: Adds some padding inside the main content */
 }
 
 
