@@ -20,7 +20,7 @@
   </div>
 </header>
 
-
+<main>
 <div style="text-align: center;">
 
   <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📂 Data Analytics Portfolio</span><br>
@@ -49,7 +49,7 @@
     <div class="hover-text">Your Hover Text Here</div> 
   </a> 
 </div>
-  
+  <br>
 <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📜 Certificates</span><br>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a><br>
 - <a href="https://app.dataquest.io/view_cert/9CT0GMTE21W9KYUSYLFD" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a><br>
@@ -75,10 +75,13 @@
 - <a href="https://app.dataquest.io/view_cert/E1B86AK2HDIMC7Q4LOQY" target="_blank">Dataquest.io: Introduction to Python Programming for Data Science Course</a>
 
 </div>
+</main>
 <footer>
+ <div style="text-align: center;">
  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
     <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
     <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span><br>
+ </div>
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
        <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
               <img src="./images/linkedin black.jpg" alt="LinkedIn Profile" class="icon"> 
