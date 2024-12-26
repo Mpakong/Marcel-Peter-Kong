@@ -12,6 +12,12 @@ h1 {
     font-weight: bold;
 }
 
+main {
+    background-color: gray;
+    padding: 20px; /* Optional: Adds some padding inside the main content */
+}
+
+
 .hover-container {
     position: relative;
     display: inline-block;
