@@ -4,8 +4,9 @@
  <div style="text-align: left;">
    <span style="color: rgb(255, 255, 255);font-size: 40px; font-weight: bold;">Marcel Peter Kong</span><br>
    <span style="color: rgb(255, 255, 255);font-size: 30px;">Data Analyst</span><br>
+  <br>
    <span style="color: rgb(255, 255, 255);font-size: 15px;">Skills: </span>
-   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Excel | Power BI | Python | SQL | Statistics | Excel VBA</span><br>
+   <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">Excel | Power BI | Python | SQL | Statistics | Excel VBA</span><br><br>
 <div style="display: flex; justify-content: left; align-items: center; gap: 20px;">
               <img src="./images/profile pic black.jpg" class="black-background" width="200" height="150">
               <img src="./images/excel.jpg" alt="excel" class="icon"> 
