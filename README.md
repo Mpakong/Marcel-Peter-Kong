@@ -17,10 +17,10 @@
               <img src="./images/statistics.jpg" alt="stats icon" class="icon" width="128" height="128"> 
               <img src="./images/vba.jpg" alt="vba icon" class="icon" width="128" height="128"> 
 </div>
+  </div>
 </header>
 
 
-<hr>
 <div style="text-align: center;">
 
   <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📂 Data Analytics Portfolio</span><br>
@@ -49,8 +49,6 @@
     <div class="hover-text">Your Hover Text Here</div> 
   </a> 
 </div>
-
-<hr>
   
 <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📜 Certificates</span><br>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a><br>
@@ -81,7 +79,7 @@
  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
     <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
     <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span><br>
- <div style="display: flex; justify-content: left; align-items: center; gap: 20px;">
+ <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
        <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
               <img src="./images/linkedin black.jpg" alt="LinkedIn Profile" class="icon"> 
        </a> 
