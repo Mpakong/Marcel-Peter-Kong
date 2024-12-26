@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <div style="background: black; display: inline-block;">
-
+<body>
+ <header>
  <div style="text-align: left;">
    <span style="color: rgb(255, 255, 255);font-size: 40px; font-weight: bold;">Marcel Peter Kong</span><br>
    <span style="color: rgb(255, 255, 255);font-size: 30px;">Data Analyst</span><br>
@@ -16,25 +17,9 @@
               <img src="./images/statistics.jpg" alt="stats icon" class="icon" width="128" height="128"> 
               <img src="./images/vba.jpg" alt="vba icon" class="icon" width="128" height="128"> 
 </div>
+</header>
 
-    <br>
 
-  <br>
-  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
-    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
-    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span><br>
-    <br>
-
- </div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-       <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
-              <img src="./images/linkedin black.jpg" alt="LinkedIn Profile" class="icon"> 
-       </a> 
-       <a href="mailto:konggiio2@gmail.com" target="_blank"> 
-              <img src="./images/gmail black.jpg" alt="gmail icon" class="icon" width="128" height="128"> 
-       </a> 
-</div>
 <hr>
 <div style="text-align: center;">
 
@@ -92,3 +77,17 @@
 - <a href="https://app.dataquest.io/view_cert/E1B86AK2HDIMC7Q4LOQY" target="_blank">Dataquest.io: Introduction to Python Programming for Data Science Course</a>
 
 </div>
+<footer>
+ <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
+    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
+    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span><br>
+ <div style="display: flex; justify-content: left; align-items: center; gap: 20px;">
+       <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
+              <img src="./images/linkedin black.jpg" alt="LinkedIn Profile" class="icon"> 
+       </a> 
+       <a href="mailto:konggiio2@gmail.com" target="_blank"> 
+              <img src="./images/gmail black.jpg" alt="gmail icon" class="icon" width="128" height="128"> 
+       </a> 
+</div>
+</footer>
+</body>
