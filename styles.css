@@ -115,6 +115,7 @@ img {
             width: 600px; 
             justify-content: center;
             align-items: center;
+            text-align: left;
 }
 .outer-container {
             display: flex;
