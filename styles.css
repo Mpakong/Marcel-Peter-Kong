@@ -114,7 +114,7 @@ img {
             background-color: #242424;
             width: 600px; 
             justify-content: center;
-            align-items: center;
+            align-items: left;
             text-align: left;
 }
 .outer-container {
