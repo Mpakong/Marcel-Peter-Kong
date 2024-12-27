@@ -112,7 +112,15 @@ img {
             padding: 20px;
             margin: 10px 0;
             background-color: #242424;
-            width: 500px; 
+            width: 600px; 
             justify-content: center;
             align-items: center;
 }
+.outer-container {
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            height: 100vh; /* Full viewport height */
+            background-color: #242424; 
+}
+
