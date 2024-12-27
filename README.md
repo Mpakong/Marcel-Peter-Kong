@@ -56,7 +56,6 @@
   <br>
 <div style="text-align: center;">
 <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📜 Certificates</span><br>
- <br>
 <div class="outer-container">
  <div style="text-align: center; padding: 20px;">
  <div class="container" style="align-items: center;">
