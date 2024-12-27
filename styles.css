@@ -109,7 +109,7 @@ img {
 }
 .container {
             background-color: #242424;
-            width: 600px; 
+            width: 100%; 
             justify-content: center;
             align-items: left;
             text-align: left;
