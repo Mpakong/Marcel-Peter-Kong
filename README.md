@@ -14,7 +14,7 @@
    <span style="color: rgb(128, 128, 128);font-size: 15px;">Excel | Power BI | Python | SQL | Statistics | Excel VBA</span><br><br>
 <div style="display: flex; justify-content: left; align-items: center; gap: 20px;">
               
-              <img src="./images/excel.jpg" alt="excel" class="icon" width="128" height="128"> 
+              <img src="./images/excel.jpg" alt="excel" class="icon" width="118" height="118"> 
               <img src="./images/powerbi.jpg" alt="powerbi icon" class="icon" width="128" height="128"> 
               <img src="./images/python.jpg" alt="python icon" class="icon" width="128" height="128"> 
               <img src="./images/sql.jpg" alt="sql icon" class="icon" width="128" height="128"> 
@@ -25,7 +25,7 @@
 </header>
 
 <main>
-<div style="text-align: center;">
+<div style="text-align: center; padding: 20px;">
 
   <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📂 Data Analytics Portfolio</span><br>
 <br>
