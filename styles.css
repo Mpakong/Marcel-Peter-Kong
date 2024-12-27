@@ -30,7 +30,7 @@ h1 {
 main {
     background: #181818;
     width: 100%;
-    min-height: 100vh;/* padding: 20px; Optional: Adds some padding inside the main content */
+    min-height: 80vh;/* padding: 20px; Optional: Adds some padding inside the main content */
 }
 
 
