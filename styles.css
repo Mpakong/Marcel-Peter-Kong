@@ -122,5 +122,6 @@ img {
             align-items: center; /* Center vertically */
             background-color: #242424;
             width: 600px;
+            padding: 40px;
 }
 
