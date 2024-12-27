@@ -89,8 +89,8 @@
 <footer>
  <div style="text-align: center; padding: 20px;">
  <span style="color: rgb(255, 255, 255);font-size: 22px; font-weight: bold;">📒Contact Information</span><br>
-    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
-    <span style="color: rgb(0, 119, 181);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span><br>
+    <span style="color: rgb(128, 128, 128);font-size: 15px;padding-left: 20px;">📞 +63-995-032-3545</span><br>
+    <span style="color: rgb(128, 128, 128);font-size: 15px;padding-left: 20px;">✉️ konggiio2@gmail.com</span><br>
  </div>
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
        <a href="https://www.linkedin.com/in/marcel-peter-kong-4a376a310" target="_blank">
