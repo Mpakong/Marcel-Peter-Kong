@@ -121,7 +121,7 @@ img {
             justify-content: center; /* Center horizontally */
             align-items: center; /* Center vertically */
             background-color: #242424;
-            width: 600px;
+            width: 100vw;
             
            
 }
