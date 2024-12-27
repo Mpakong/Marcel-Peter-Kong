@@ -56,8 +56,9 @@
 <div style="text-align: center; padding: 20px;">
 <span style="color: rgb(255, 255, 255);font-size: 20px; font-weight: bold;">📜 Certificates</span><br>
  <br>
-
-<div class="container" style="align-items: center;">
+<div class="outer-container">
+ 
+ <div class="container" style="align-items: center;">
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/JXC43Z0DZW13" target="_blank">Google Data Analytics Professional Certificate</a><br>
 - <a href="https://app.dataquest.io/view_cert/9CT0GMTE21W9KYUSYLFD" target="_blank">Dataquest.io: Probability and Statistics with Python Path</a><br>
 - <a href="https://app.dataquest.io/view_cert/SD17FHGEH1PSMB25LEKI" target="_blank">Dataquest.io: Hypothesis Testing in Python Course</a><br>
@@ -81,6 +82,7 @@
 - <a href="https://app.dataquest.io/view_cert/Q3SJW4OTIMAJCGK9XUGB" target="_blank">Dataquest.io: For Loops and Conditional Statements in Python Course</a><br>
 - <a href="https://app.dataquest.io/view_cert/E1B86AK2HDIMC7Q4LOQY" target="_blank">Dataquest.io: Introduction to Python Programming for Data Science Course</a>
    </div>
+ </div>
  </div>
 </div>
 </main>
