@@ -110,7 +110,7 @@ img {
 .container {
             
             padding: 20px;
-            margin: 10px 0;
+            margin: 40px 0;
             background-color: #242424;
             width: 600px; 
             justify-content: center;
@@ -122,6 +122,6 @@ img {
             align-items: center; /* Center vertically */
             background-color: #242424;
             width: 600px;
-            padding: 40px;
+           
 }
 
