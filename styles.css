@@ -18,10 +18,6 @@ html, body {
    font-family: helvetica, serif;
 }
 
-/* h1 {
-    display: none;
-    /*color:rgb(255, 255, 255);*/
-}
 .name {
     color: rgb(255, 255, 255);
     font-size: 40px;
